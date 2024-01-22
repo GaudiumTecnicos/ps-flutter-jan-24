@@ -22,9 +22,9 @@ O código segue um projeto simples com apenas uma tela, a main, que possui um um
 
 ## Preparação
 ### Instruções
-1 - Você deverá clonar o repositório atual em um repositório próprio.
-2 - Convidar o usuário `gaudiumtecnicos@gmail.com` para o seu novo repositório, que ficará com o código da prova.
-3 - Rodar o código para garantir que está funcionando na sua máquina. Se achar necessário pode ajustar dependências, mas sem mexer no código principal. A ideia é apenas para não ter surpresas durante a execução da prova e não perder tempo à toa.
+1. Você deverá clonar o repositório atual em um repositório próprio.
+2. Convidar o usuário `gaudiumtecnicos@gmail.com` para o seu novo repositório, que ficará com o código da prova.
+3. Rodar o código para garantir que está funcionando na sua máquina. Se achar necessário pode ajustar dependências, mas sem mexer no código principal. A ideia é apenas para não ter surpresas durante a execução da prova e não perder tempo à toa.
 
 Em casos de dúvida, basta entrar em contato.
 
