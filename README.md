@@ -20,7 +20,7 @@ O código segue um projeto simples com apenas uma tela, a main, que possui um um
 
 <img width="321" alt="image" src="imgs/mapa.png">
 
-## O desafio
+## Preparação
 ### Instruções
 1 - Você deverá clonar o repositório atual em um repositório próprio.
 2 - Convidar o usuário `gaudiumtecnicos@gmail.com` para o seu novo repositório, que ficará com o código da prova.
