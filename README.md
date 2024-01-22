@@ -16,17 +16,19 @@ Bem vindo ao processo seletivo da Gaudium!
 ## Introdução
 
 ### O código atual
-O código segue um projeto simples com apenas uma tela, a main, que possui um um mapa do Google Maps e exibe um marcador no centro do Rio de Janeiro. 
 
 <img width="321" alt="image" src="imgs/mapa.png">
 
+O código segue um projeto simples com apenas uma tela, a main, que possui um um mapa do Google Maps e exibe um marcador no centro do Rio de Janeiro. 
+
 ## Preparação
 ### Instruções
-1. Você deverá clonar o repositório atual em um repositório próprio usando o botão verde de Usar template, no canto superior direito.
-  <img width="273" alt="image" src="https://github.com/GaudiumTecnicos/ps-flutter-jan-24/assets/44851937/849db6ba-1e8b-4955-9f53-2d416e885a5d">
 
-3. Depois, convidar o usuário `gaudiumtecnicos@gmail.com` para o seu novo repositório, que ficará com o código da prova.
-4. Por último, baixar e rodar o código do projeto _Entregaudium_ para garantir que está funcionando na sua máquina. Se achar necessário pode ajustar dependências, mas sem mexer no código principal. A intenç˜ao é apenas não ter surpresas durante a execução da prova e não perder tempo à toa.
+<img width="273" alt="image" src="https://github.com/GaudiumTecnicos/ps-flutter-jan-24/assets/44851937/849db6ba-1e8b-4955-9f53-2d416e885a5d">
+
+1. Você deverá clonar o repositório atual em um repositório próprio usando o botão verde de Usar template, no canto superior direito. 
+2. Depois, convidar o usuário `gaudiumtecnicos@gmail.com` para o seu novo repositório, que ficará com o código da prova.
+3. Por último, baixar e rodar o código do projeto _Entregaudium_ para garantir que está funcionando na sua máquina. Se achar necessário pode ajustar dependências, mas sem mexer no código principal. A intenç˜ao é apenas não ter surpresas durante a execução da prova e não perder tempo à toa.
 
 Em casos de dúvida, basta entrar em contato.
 
