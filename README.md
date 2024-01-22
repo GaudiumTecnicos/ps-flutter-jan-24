@@ -24,11 +24,11 @@ O código segue um projeto simples com apenas uma tela, a main, que possui um um
 ## Preparação
 ### Instruções
 
-<img width="273" alt="image" src="https://github.com/GaudiumTecnicos/ps-flutter-jan-24/assets/44851937/849db6ba-1e8b-4955-9f53-2d416e885a5d">
-
 1. Você deverá clonar o repositório atual em um repositório próprio usando o botão verde de Usar template, no canto superior direito. 
 2. Depois, convidar o usuário `gaudiumtecnicos@gmail.com` para o seu novo repositório, que ficará com o código da prova.
 3. Por último, baixar e rodar o código do projeto _Entregaudium_ para garantir que está funcionando na sua máquina. Se achar necessário pode ajustar dependências, mas sem mexer no código principal. A intenção é apenas não ter surpresas durante a execução da prova para não perder tempo à toa.
+
+<img width="273" alt="image" src="https://github.com/GaudiumTecnicos/ps-flutter-jan-24/assets/44851937/849db6ba-1e8b-4955-9f53-2d416e885a5d">
 
 Em casos de dúvida, basta entrar em contato.
 
